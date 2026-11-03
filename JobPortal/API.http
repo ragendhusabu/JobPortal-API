@@ -1,0 +1,28 @@
+###
+GET http://127.0.0.1:8000/about/
+Accept: application/json
+
+
+###
+GET http://127.0.0.1:8000/jobs/
+Accept: application/json
+
+# API call for companies
+###
+GET http://127.0.0.1:8000/companies/
+Accept: application/json
+
+
+###
+GET http://127.0.0.1:8000/categories/
+Accept: application/json
+
+
+###
+GET http://127.0.0.1:8000/jobtypes/
+Accept: application/json
+
+
+###
+GET http://127.0.0.1:8000/applications/
+Accept: application/json
